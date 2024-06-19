@@ -39,6 +39,10 @@ small {
   height: 30vh;
 }
 
+.mt {
+  margin-top: 5rem;
+}
+
 #modal {
   position: absolute;
   left: 50%;
